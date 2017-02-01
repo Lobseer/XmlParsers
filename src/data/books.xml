@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<BookCatalogue>
+    <Book>
+        <Title>Book #0</Title>
+        <Author>Author #0</Author>
+        <Date>2017-02-01</Date>
+        <ISBN>ISBN #0</ISBN>
+        <Publisher>Publisher #0</Publisher>
+        <Cost currency="USD">10</Cost>
+    </Book>
+    <Book>
+        <Title>Book #1</Title>
+        <Author>Author #1</Author>
+        <Date>2017-02-01</Date>
+        <ISBN>ISBN #1</ISBN>
+        <Publisher>Publisher #1</Publisher>
+        <Cost currency="USD">11</Cost>
+    </Book>
+    <Book>
+        <Title>Book #2</Title>
+        <Author>Author #2</Author>
+        <Date>2017-02-01</Date>
+        <ISBN>ISBN #2</ISBN>
+        <Publisher>Publisher #2</Publisher>
+        <Cost currency="USD">12</Cost>
+    </Book>
+    <Book>
+        <Title>Book #3</Title>
+        <Author>Author #3</Author>
+        <Date>2017-02-01</Date>
+        <ISBN>ISBN #3</ISBN>
+        <Publisher>Publisher #3</Publisher>
+        <Cost currency="USD">13</Cost>
+    </Book>
+    <Book>
+        <Title>Book #4</Title>
+        <Author>Author #4</Author>
+        <Date>2017-02-01</Date>
+        <ISBN>ISBN #4</ISBN>
+        <Publisher>Publisher #4</Publisher>
+        <Cost currency="USD">14</Cost>
+    </Book>
+</BookCatalogue>

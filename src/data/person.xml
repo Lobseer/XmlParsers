@@ -1,0 +1,18 @@
+<root>
+    <person id="1">
+
+        <firstName>Aleks</firstName>
+        <lastName>Bugard</lastName>
+
+        <login>myLogin</login>
+        <document>RW</document>
+        <pages>50</pages>
+        <documents>
+            <doc>1.txt</doc>
+            <doc>2.txt</doc>
+            <doc>3.txt</doc>
+            <doc>4.txt</doc>
+            <doc>5.txt</doc>
+        </documents>
+    </person>
+</root>

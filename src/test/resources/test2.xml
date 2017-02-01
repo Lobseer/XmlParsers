@@ -1,0 +1,13 @@
+<person id="1">
+    <name>
+        <firstName>Test</firstName>
+        <lastName>Testing</lastName>
+    </name>
+    <login>testLogin</login>
+    <permission>
+        <document>TestDocument</document>
+        <pages>fifty</pages>
+    </permission>
+    <documents>
+    </documents>
+</person>
